@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HouseModel.java&apos; to &apos;Lab5/src/cs355&apos;&#x0A;- Original project: &apos;Lab5&apos;&#x0A;- Destination element: &apos;Lab5/src/cs355&apos;&#x0A;- Original element: &apos;cs355.LWJGL.HouseModel.java&apos;" description="Copy compilation unit" destination="/src&lt;cs355" element1="/src&lt;cs355.LWJGL{HouseModel.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1458788961118" units="1" version="1.0"/>
+</session>
