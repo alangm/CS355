@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=cs355/&amp;lt;cs355.solution{CS355.java[CS355&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=Lab2/src&amp;lt;cs355.solution{CS355.java[CS355&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=Lab3/src&amp;lt;cs355.solution{CS355.java[CS355&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=Lab4_NEW/src&amp;lt;cs355.LWJGL{CS355LWJGL.java[CS355LWJGL&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=Lab4/\/Lab4\/lib\/lwjgl-2.9.3\/jar\/lwjgl_test.jar&amp;lt;org.lwjgl.test.openal(ALCCaptureTest.class[ALCCaptureTest&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=Lab5/\/Lab5\/lib\/lwjgl-2.9.3\/jar\/lwjgl_test.jar&amp;lt;org.lwjgl.test.openal(ALCCaptureTest.class[ALCCaptureTest&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=lab5-example-2/\/Users\/alangm\/Documents\/workspace\/Lab4\/lib\/lwjgl-2.9.3\/jar\/lwjgl_test.jar&amp;lt;org.lwjgl.test.openal(ALCCaptureTest.class[ALCCaptureTest&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=lab5_example/src&amp;lt;cs355.lab5{CS355.java[CS355&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=Lab5/src&amp;lt;cs355.lab5{CS355.java[CS355&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=Lab5/src&amp;lt;cs355.solution{CS355.java[CS355&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=lab6-example/src&amp;lt;cs355.lab6{CS355.java[CS355&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=Lab6/src&amp;lt;cs355.solution{CS355.java[CS355&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText-Regular" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="519" key="DIALOG_X_ORIGIN"/>
+			<item value="180" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>
